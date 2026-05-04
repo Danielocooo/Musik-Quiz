@@ -40,8 +40,11 @@ Ziel: Highscores knacken und sich in einer Rangliste verewigen
 3. Target Scope
 Ansichten:
 1. Home/Discovery: Liste der neuesten oder beliebtesten Quiz-Pakete (erstellt von Usern).
-2. Quiz-Creator Dashboard: Eine Suchmaske (Spotify API Anbindung), um Songs zu einem eigenen Paket hinzuzufügen.
+![Scribble Home](images/Home.png)
+2. Quiz-Creator Dashboard: Eine Suchmaske (Spotify API Anbindung), um Songs zu einem eigenen Paket hinzuzufügen
+![Scribble Dashboard](images/Quiz-creator-Dashboard.png)
 3. Game Interface: Der Player mit dem 30-Sekunden-Snippet, dem Eingabefeld und dem Timer.
+![Scribble Interface](images/Game-Interface.png)
 4. Leaderboard: Eine Übersicht, welcher User welches Quiz am schnellsten gelöst hat.
-
+![Scribble Leaderboard](images/Leaderboard.png)
 
