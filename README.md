@@ -14,14 +14,19 @@
 
 2. Value Proposition
 2.1 Target User:
-  - Musik-Experten-Communities, die ihr Wissen in Nischen-Genres testen wollen
+  - Musik-Experten-Communities, die ihr Wissen in Nischen-Genres in Form von Quizzes testen wollen
   - Gruppen, die sich in Gesellschaft oder als Spiel messen wollen
     
 2.2 Plausible Problem:
   - Bestehende Musik-Quizze sind oft zu oberflächlich oder decken spezielle Musikrichtungen nicht ab
+  - Bei einem einfachen Quiz (z. B. über Youtube) gibt es keine Möglichkeit seine Erfolge zu teilen und sich direkt mit anderen Nutzern zu konkurrieren
+  - Player von Musik Quizzen können in der Regel nicht einfach ein eigenes Quiz erstellen und es veröffentlichen
     
 2.3 Solution:
-  - Eine Plattform, auf der Experten (Quiz-Master) maßgeschneiderte Audio-Quizze erstellen können, die von der Community (Player)           gelöst werden
+  - Eine Plattform, auf der Experten (Quiz-Master) maßgeschneiderte Audio-Quizze erstellen können, die von der Community (Player) gelöst werden
+  - Player können Erfolge sharen um eine kompetetive Dynamik zu kreiieren
+  - Langfristige Einführung von Funktionen für virtuelle Wettbewerbe über die Webapp
+  - Player können über eine Spotify API einfach eigene Quizze erstellen und diese in der Webapp veröffentlichen
 
 2.4 Two-Sided Platform:
 Seite A: Der „Quiz-Master“ (Creator)
