@@ -1,6 +1,6 @@
 Titel der Web-App: Beat The Track
 
-Team Composition
+1) Team Composition
    
 1.1 Gruppenname: „LionRecords“
    
@@ -32,7 +32,7 @@ Team Composition
   - Personal Goals: Vorher entwickelte Modellierungen, technisch umsetzen; Verständnis der Kernelemente von umfangreichen Dokumentationen der Ergebnisse;
     
 
-Value Proposition
+2) Value Proposition
    
 2.1 Target User:
 
@@ -64,7 +64,7 @@ Aktion: Durchsucht die Plattform nach Quiz-Paketen anderer Nutzer und spielt die
 
 Ziel: Highscores knacken und sich in einer Rangliste verewigen
 
-3. Target-Scope
+3) Target-Scope
 
 Ansichten:
 
