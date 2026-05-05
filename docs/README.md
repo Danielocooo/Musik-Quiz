@@ -1,16 +1,27 @@
-# Musik-Quiz
+Titel der Web App: Beat The Track
 
 1. Team Composition
-1.1 Gruppenname: „Music competitors“
+1.1 Gruppenname: „LionRecords“
 1.2 Gruppenmitglieder: 
    Paul Pfeiffer (77203983024),
-   Leo Harnoth (),
-   Daniel Silbermann (),
-   Alessio Steinike ()
+   Leo Harnoth (77208244796),
+   Daniel Silbermann (77208682221),
+   Alessio Steinike (77208590933)
 
 1.3 Meta-Goals:
-- Target Grade: 1.7
-- Personal Goals: Sicherer Umgang mit APIs(OAuth2 Spotify Login), Umsetzung einer App mit Frontend und Backend, Sicherer Umgang mit Creator-views
+1.3.1 Paul Pfeiffer:
+- Target Grade: 1,7
+- Personal Goals: Sicherer Umgang mit APIs(OAuth2 Spotify Login); Umsetzung einer App mit Frontend und Backend; Sicherer Umgang mit Creator-views
+1.3.2 Daniel Silbermann
+  - Target Grade: 1,7
+  - Personal Goals: Besseres Verständnis für Web Applikationen aneignen; Frontend und Backend implementieren
+1.3.3 Alessio Steinike
+  - Target Grade: 1,7
+  - Personal Goals: Verständnis und Umsetzung eines intuitiven Designs und UI; Vertiefung von Rollenaufgaben und Verteilungen in Projektgruppen
+1.3.4 Leo Harnoth
+  - Target Grade: 1,3
+  - Personal Goals: Vorher entwickelte Modellierungen, technisch umsetzen; Verständnis der kernelemente von Umfangreichen Dokumentationen der Ergebnisse;
+    
 
 2. Value Proposition
 2.1 Target User:
