@@ -1,6 +1,6 @@
 Titel der Web-App: Beat The Track
 
-1. Team Composition
+Team Composition
    
 1.1 Gruppenname: „LionRecords“
    
@@ -32,7 +32,7 @@ Titel der Web-App: Beat The Track
   - Personal Goals: Vorher entwickelte Modellierungen, technisch umsetzen; Verständnis der Kernelemente von umfangreichen Dokumentationen der Ergebnisse;
     
 
-2. Value Proposition
+Value Proposition
    
 2.1 Target User:
 
@@ -68,15 +68,15 @@ Ziel: Highscores knacken und sich in einer Rangliste verewigen
 
 Ansichten:
 
-1. Home/Discovery: Liste der neuesten oder beliebtesten Quiz-Pakete (erstellt von Usern).
+3.1 Home/Discovery: Liste der neuesten oder beliebtesten Quiz-Pakete (erstellt von Usern).
 ![Scribble Home](images/Home.png)
 
-2. Quiz-Creator-Dashboard: Eine Suchmaske (Spotify-API-Anbindung), um Songs zu einem eigenen Paket hinzuzufügen
+3.2 Quiz-Creator-Dashboard: Eine Suchmaske (Spotify-API-Anbindung), um Songs zu einem eigenen Paket hinzuzufügen
 ![Scribble Dashboard](images/Quiz-creator-Dashboard.png)
 
-3. Game Interface: Der Player mit dem 30-Sekunden-Snippet, dem Eingabefeld und dem Timer.
+3.3 Game Interface: Der Player mit dem 30-Sekunden-Snippet, dem Eingabefeld und dem Timer.
 ![Scribble Interface](images/Game-Interface.png)
 
-4. Leaderboard: Übersicht, welcher User welches Quiz am schnellsten gelöst hat.
+3.4 Leaderboard: Übersicht, welcher User welches Quiz am schnellsten gelöst hat.
 ![Scribble Leaderboard](images/Leaderboard.png)
 
