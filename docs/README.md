@@ -69,14 +69,14 @@ Ziel: Highscores knacken und sich in einer Rangliste verewigen
 Ansichten:
 
 3.1 Home/Discovery: Liste der neuesten oder beliebtesten Quiz-Pakete (erstellt von Usern).
-![Scribble Home](images/Home.png)
+![Scribble Home](docs/Home.png)
 
 3.2 Quiz-Creator-Dashboard: Eine Suchmaske (Spotify-API-Anbindung), um Songs zu einem eigenen Paket hinzuzufügen
-![Scribble Dashboard](images/Quiz-creator-Dashboard.png)
+![Scribble Dashboard](docs/Quiz-creator-Dashboard.png)
 
 3.3 Game Interface: Der Player mit dem 30-Sekunden-Snippet, dem Eingabefeld und dem Timer.
-![Scribble Interface](images/Game-Interface.png)
+![Scribble Interface](docs/Game-Interface.png)
 
 3.4 Leaderboard: Übersicht, welcher User welches Quiz am schnellsten gelöst hat.
-![Scribble Leaderboard](images/Leaderboard.png)
+![Scribble Leaderboard](docs/Leaderboard.png)
 
